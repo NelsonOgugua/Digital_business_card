@@ -1,0 +1,30 @@
+.card{
+
+   width: 600px;
+    
+    border: none solid grey;
+    background-color: honeydew;
+    margin: 50px auto;
+    display: flex;
+    padding: 20px;
+    color: #2b2839;
+    border-bottom: 5px solid hotpink;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+.avatar{
+
+    width: 150px;
+}
+
+.image{
+
+    margin-right: 25px;
+}
+
+.text{
+
+    margin-left: 25px;
+    
+}
